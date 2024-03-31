@@ -1,5 +1,8 @@
 # LLM_Slack_ChatBot
 
+![image](https://github.com/wayne540500/LLM_Slack_ChatBot/assets/69573286/a8d70b76-f9f2-4cd8-b6fc-cb601494c290)
+
+
 Slack Setup
 
 Choose an existing Slack workspace or create a new one.
@@ -60,6 +63,10 @@ In a new terminal (macOS/Linux) or Command Prompt (Windows), start ngrok by runn
 
 Note the HTTPS URL provided by ngrok (e.g., https://yoursubdomain.ngrok.io). You'll need it for the next step.
 
+If you run sucess it will looks like this:
+![image](https://github.com/wayne540500/LLM_Slack_ChatBot/assets/69573286/0aa24ab7-3947-4f48-9b83-9b6c756ee60f)
+
+
 
 Configure your Slack app with the ngrok URL
 
@@ -84,6 +91,8 @@ Add your bot to a Slack channel
 
 Type /invite @bot-name in the channel.
 
+
+
+
 reference: https://docs.datalumina.io/3y3XPD66nBJaub/b/99068549-DC3C-41E3-863E-30F16DBB7A2A/Part-4-%E2%80%94-Add-Custom-Functions
 
-![image](https://github.com/wayne540500/LLM_Slack_ChatBot/assets/69573286/a8d70b76-f9f2-4cd8-b6fc-cb601494c290)
